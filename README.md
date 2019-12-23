@@ -17,5 +17,3 @@ commit note:
 -a = add
 -u = update
 -d = delete
-
-test
