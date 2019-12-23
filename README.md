@@ -17,3 +17,4 @@ commit note:
 -a = add
 -u = update
 -d = delete
+-t = test
