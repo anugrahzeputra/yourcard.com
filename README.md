@@ -12,3 +12,8 @@ Full Stack Website for yourcard project
 1. memuat data user tersimpan dan terenkripsi
 
 ##### note: Desain website menggunakan Bootstrap Studio 2 dan Website menggunakan Framework CodeIgniter
+
+commit note:
+-a = add
+-u = update
+-d = delete
