@@ -30,7 +30,7 @@
                 <div class="col-md-4 col-md-push-7 phone-preview">
                     <div class="iphone-mockup">
                         <div class="screen"></div>
-                    </div><img src="assets/img/yourcard2.png" width="320"></div>
+                    </div></div>
                 <div class="col-md-6 col-md-pull-3 get-it">
                     <h1>Be the One with, Your Card !!</h1>
                     <p>Became an entreuprener must have an identity to explain about yourself. there it is !! Our card is your solution. we could inform the world who you are. interested ?? learn about us more... </p>
